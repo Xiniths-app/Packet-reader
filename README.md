@@ -12,10 +12,10 @@ ECT...
 -------------------------------------------------------
 Voici les différents requirements :
 
-Net framwork 4.8.0 *
-Net framwork 4.7.2
-Python 3
-SQL server / MY sql
+- Net framwork 4.8.0 *
+- Net framwork 4.7.2
+- Python 3
+- SQL server / MY sql
 
 * : obligatoire
 -------------------------------------------------------
