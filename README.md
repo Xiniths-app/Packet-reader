@@ -28,10 +28,10 @@ Version supporter : 1.2.0, 1.3.0 et 1.4.2
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 5.1.x   | YES                |
+| 5.0.x   | YES                |
+| 4.0.x   | YES                |
+| < 4.0   | NO                 |
 
 ## Reporting a Vulnerability
 
