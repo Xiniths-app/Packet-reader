@@ -39,3 +39,18 @@ Merci de reporter toute vulnérabilité sur notre discord : https://discord.gg/4
 
 Les mise a jours viennent a une fréquence de 1 par semain jusqu'a 1 par mois !
 Vous serez avertis de toute modification sur notre serveur discord : https://discord.gg/4AvZyZs !
+
+
+#INFORMATIONS
+
+fonctionnement du filtre
+
+| NET         | OS                 | Packet reader                            | Filtre                         |
+| ----------- | ------------------ | ---------------------------------------- | ------------------------------ |
+| Packet      | XYZ                | lecture et affichage du packet           | Rien                           |
+| Protocole   | XYZ                | demende a l'os le protocole et l'affiche | Verification de l'authenticité |
+| IP          | XYZ                | affiche l'ip de destination et le source | Vérifie la malveillance        |
+| Port        | XYZ                | affiche le port source et distant        | Vérifie la malveillance        |
+
+
+
